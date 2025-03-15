@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Cecyl 👋
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.pinimg.com/736x/61/b1/4c/61b14cc5877cc04309cb37f21a07c6bc.jpg"></a>
 </p>
