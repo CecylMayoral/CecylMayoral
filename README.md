@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br><br>
+<br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -60,9 +60,6 @@ Here are some ideas to get you started:
 
 </p>
 
-<br>
-<br>
-
 -----
 
 <br>
@@ -93,7 +90,6 @@ Here are some ideas to get you started:
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
 
